@@ -1,0 +1,9 @@
+:set -Wall
+
+:set -hide-package regex-pcre
+:set -hide-package regex-tdfa-rc
+
+:seti -XOverloadedStrings
+:seti -XQuasiQuotes
+
+:set -iexamples
